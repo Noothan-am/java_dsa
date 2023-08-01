@@ -1,4 +1,0 @@
-1. Post request
-     - we can send data through two things 
-          1. through headers
-          2. through ?= in url

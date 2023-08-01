@@ -1,3 +1,0 @@
-Mempool:- it is a temp pool whare before adding to blockchain it the data is stored and miniers take and check it   
-Coninbase Transaction:- transaction done to give cryptocoin to the miners as a reward 
-Time stamps:- 

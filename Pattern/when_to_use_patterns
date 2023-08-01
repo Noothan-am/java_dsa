@@ -1,0 +1,7 @@
+### Linkedlist ###
+
+  1) slow and fast pointer method :-
+  
+     when to use:-  whenever cyclic problem is given then apply this patter/method.
+     what it does:- it helps to find whether the linkedlist is cyclic or not. 
+     how to use:- make slow & fast (pointers) and then increment slow by one and fast by two, if both meet then the linkelist is cyclc or if any one of it will become null then linkedlist is not cyclic.  

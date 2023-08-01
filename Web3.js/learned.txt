@@ -1,7 +1,0 @@
-web3.setProvider('http://localhost:8545');
-web3.bzz.setProvider('http://swarm.example.com:8500');
-In other words, web3.providers is used to create a provider object, while web3.setProvider() is used to set that provider object 
-as the default provider for a web3 instance
-
-Web3.eth.subscribe
-1. 

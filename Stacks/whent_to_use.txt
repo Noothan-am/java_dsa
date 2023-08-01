@@ -1,0 +1,4 @@
+
+
+used when we want to store data or answer in other data structures questions 
+used when you want to store data in order or to sertain item then come back to this again after few steps 

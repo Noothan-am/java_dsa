@@ -1,8 +1,0 @@
-1. inbuilt Image tag
-2. make Loading page for defualt loading screen 
-3. import css by @app/styles/{name}
-4. default Link tab insted of anchor tag
-5. "Use client" when you are using the react hooks  
-6. layout -> index.js and Page -> app.js
-7. google font default support avaliable 
-8. error page is default and it's name is not-found.js
