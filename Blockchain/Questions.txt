@@ -1,0 +1,4 @@
+why do we need to put limit to hash values 
+does nodes contain both miners and users 
+more than two transaction are there in data field in block do miners validate each transaction separatly or they validate 
+group of transaction at once  

@@ -1,0 +1,19 @@
+                                   BEFORE WRITING VARIABLE NAME YOU SHOULD FIRST ANSWER THIS QUESTION
+                                                  -> WHY THIS VARIABLE EXISTS? 
+                                                  -> WHAT DOES THIS VARIABLE DO? 
+                                                  -> HOW IT IS USED?
+
+1. write in detailed name what it does:-  
+
+2. two variable name is same then change name entirely but meaning shoulld be same 
+     eg:- getProduct() { } and getProducts() { }
+          getProductById() { } and getAllProducts() { }
+
+3. remove unnessary words:- data, info, value
+     eg:- insted using   productData, shippingValue, driverInfo; 
+          start using    product, shipping,  
+
+4. assign variable to magic numbers:- 
+     eg:- insted         if(status == 3) { }
+          use            const STATUS_PENDING = 3;
+                         if(status === STATUS_PENDING) {}         
